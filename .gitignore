@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.env
 # C extensions
 *.so
 
@@ -46,4 +47,5 @@ wheels/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.dbdatabase.db
+Thumbs.db
+database.db
