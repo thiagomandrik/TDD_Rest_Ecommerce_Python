@@ -34,7 +34,6 @@ wheels/
 
 # IDE
 .idea
-.vscode/
 *.swp
 *.swo
 *.sublime-project
@@ -47,4 +46,4 @@ wheels/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db
+Thumbs.dbdatabase.db
